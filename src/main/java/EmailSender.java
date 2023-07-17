@@ -42,5 +42,4 @@ public class EmailSender {
 
        System.out.println("Email sent successfully! ");
    }
-
 }

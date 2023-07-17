@@ -5,7 +5,7 @@ public class MainClass {
     public static void main(String[] args) {
         String host = "smtp.gmail.com";
         int port = 587;
-        String username = "mismailkhan.pakistan@gmail.com";
+        String username = "myn2064@gmail.com";
         String password = "Itsallabout4@";
 
         EmailSender emailSender = new EmailSender(host, port, username, password);
